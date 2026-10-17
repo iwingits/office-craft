@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "wordcraft": {
+      "command": "C:\\Users\\iwin\\wordcraft\\wordcraft-0.7.0-windows-x64-portable\\wordcraft-cli.exe",
+      "args": ["mcp", "--automation-read-root", "C:\\Users\\iwin", "--automation-write-root", "C:\\Users\\iwin"]
+    },
+    "gridcraft": {
+      "command": "C:\\Users\\iwin\\gridcraft\\gridcraft-0.7.0-windows-x64-portable\\gridcraft-cli.exe",
+      "args": ["mcp"]
+    },
+    "deckcraft": {
+      "command": "C:\\Users\\iwin\\deckcraft\\deckcraft-0.7.0-windows-x64-portable\\deckcraft-cli.exe",
+      "args": ["mcp"]
+    },
+    "pdfcraft": {
+      "command": "C:\\Users\\iwin\\pdfcraft\\pdfcraft-0.7.1-windows-x64-portable\\pdfcraft-cli.exe",
+      "args": ["mcp", "--root", "C:\\Users\\iwin"]
+    }
+  }
+}

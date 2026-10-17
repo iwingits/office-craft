@@ -1,0 +1,11 @@
+# build output
+OfficeCraft.exe
+*.pdb
+
+# per-user runtime state
+recent.json
+settings.json
+
+# logs / diagnostics
+*.log
+host_error.log
